@@ -4,10 +4,9 @@
 
 > "技术可以被垄断，但技术进步不可以被垄断。"
 
-[![Claude Code](https://img.shields.io/badge/Claude_Code-skill-blue?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMxNy41MiAyIDEyIDJ6IiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg==)](https://github.com/Panmax/wangchuanfu-skill)
-[![MIT License](https://img.shields.io/badge/license-MIT-green?style=flat-square)](LICENSE)
-[![Skills](https://img.shields.io/badge/type-.skill-orange?style=flat-square)](https://github.com/Panmax/wangchuanfu-skill)
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 **将王传福的工程师精神、垂直整合战略与技术为王理念蒸馏为 Claude Code 的思维模型，让 AI 用「比亚迪掌门人」的视角帮你拆解问题。**
 
 </div>
@@ -91,12 +90,12 @@ wangchuanfu-skill/
 
 更多人物 Skill 请查看 [Awesome 女娲.skill](https://github.com/Panmax/awesome-nuwa)。
 
-## 许可证
-
-本项目采用 [MIT 许可证](LICENSE)。
-
 ---
 
 <div align="center">
-<sub>Built with care by <a href="https://github.com/Panmax">Panmax</a> · Inspired by 王传福的工程师精神</sub>
+
+MIT License
+
+Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
+
 </div>
